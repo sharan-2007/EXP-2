@@ -76,11 +76,18 @@ Calculation:
 
 
 Open circuit characteristics:
-<img width="798" height="522" alt="image" src="https://github.com/user-attachments/assets/cdfc1605-d5c2-424d-83f2-b05ea89cb63d" />
-<img width="607" height="825" alt="Screenshot 2026-01-06 001600" src="https://github.com/user-attachments/assets/356ffe50-9f6a-488e-b429-65a5e6b004f2" />
-<img width="612" height="367" alt="Screenshot 2026-01-06 001542" src="https://github.com/user-attachments/assets/dfdc45b5-a5c8-498f-aa2b-d2d0e364859e" />
-<img width="618" height="824" alt="Screenshot 2026-01-06 001529" src="https://github.com/user-attachments/assets/a1c418a0-109f-438f-b225-f99fc88537e1" />
-<img width="563" height="475" alt="Screenshot 2026-01-06 001549" src="https://github.com/user-attachments/assets/24b0d45f-992f-4c4e-992e-7881057371dd" />
+<img width="799" height="522" alt="Screenshot 2026-01-06 001435" src="https://github.com/user-attachments/assets/c1d0a7e1-e5ac-4eab-9d74-f7580264901d" />
+<img width="563" height="475" alt="Screenshot 2026-01-06 001549" src="https://github.com/user-attachments/assets/b456d21c-9466-4882-94b2-930fc78d9b42" />
+<img width="618" height="824" alt="Screenshot 2026-01-06 001529" src="https://github.com/user-attachments/assets/8adeed0b-fed9-492b-b649-af3c80fe4cf7" />
+<img width="612" height="367" alt="Screenshot 2026-01-06 001542" src="https://github.com/user-attachments/assets/763b3e1e-1033-4dc4-b263-4daec7a80065" />
+<img width="766" height="659" alt="Screenshot 2026-01-06 001457" src="https://github.com/user-attachments/assets/0efaa85b-dc35-4224-9cc8-1a4b4645626e" />
+<img width="607" height="825" alt="Screenshot 2026-01-06 001600" src="https://github.com/user-attachments/assets/5118d594-9a09-4dd2-9ea5-b94bb8c651fe" />
+
+
+
+
+
+
 
 
 
@@ -89,6 +96,7 @@ Open circuit characteristics:
 
   
 Load Characteristics:
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
