@@ -62,13 +62,25 @@ Model graph:
 
 Calculation: 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Open circuit characteristics:
 <img width="798" height="522" alt="image" src="https://github.com/user-attachments/assets/cdfc1605-d5c2-424d-83f2-b05ea89cb63d" />
-<img width="766" height="658" alt="image" sr<img width="607" height="825" alt="Screenshot 2026-01-06 001600" src="https://github.com/user-attachments/assets/356ffe50-9f6a-488e-b429-65a5e6b004f2" />
+<img width="607" height="825" alt="Screenshot 2026-01-06 001600" src="https://github.com/user-attachments/assets/356ffe50-9f6a-488e-b429-65a5e6b004f2" />
 <img width="612" height="367" alt="Screenshot 2026-01-06 001542" src="https://github.com/user-attachments/assets/dfdc45b5-a5c8-498f-aa2b-d2d0e364859e" />
 <img width="618" height="824" alt="Screenshot 2026-01-06 001529" src="https://github.com/user-attachments/assets/a1c418a0-109f-438f-b225-f99fc88537e1" />
 <img width="563" height="475" alt="Screenshot 2026-01-06 001549" src="https://github.com/user-attachments/assets/24b0d45f-992f-4c4e-992e-7881057371dd" />
-c="https://github.com/user-attachments/assets/1cd8164d-9cbb-4d18-80bb-f346caed043e" />
 
 
 
